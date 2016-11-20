@@ -1,20 +1,20 @@
 # Site settings
-email: 
+email: gabrielchen001@gmail.com 
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
+title: Shadows
 description: 
 url: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
-profile_img: 
+name: Gabriel Chen
+profile_img: http://imgur.com/2BylSE1
 profile: 
 social:
   github: 
@@ -30,4 +30,4 @@ sass:
   style: compressed
 
 # Gems
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer
