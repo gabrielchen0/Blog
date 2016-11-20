@@ -376,11 +376,16 @@
   h2 {
     line-height: 1.2;
   }
-
-  p:first-child {
-    font-size: 1.25em;
+  
+  p {
+	font-size: 1.2em;
+	letter-spacing: 0.25px;
   }
 
+/*  p:first-child {
+    font-size: 1.25em;
+  }
+*/
   a {
     border-bottom: 1px solid $color-alpha;
   }
